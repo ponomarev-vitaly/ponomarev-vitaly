@@ -31,8 +31,11 @@
 <h3 align="center">Connect with Me:</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/vitalii-ponomarev" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Vitaly's LinkedIn" height="30" width="30" />
+  <a href="https://linkedin.com/in/ponomarev-vitaly" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Vitaly's LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://twitter.com/ponomarev_v" target="blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Vitaly's Twitter" height="30" width="30" />
   </a>
   <a href="https://github.com/ponomarev-vitaly" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Vitaly's GitHub" height="30" width="30" />
