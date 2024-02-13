@@ -24,6 +24,12 @@
   <b>Project Management:</b> Proficient in project management within consulting environments, including team leadership and coordination<br>
 </p>
 
+**My GitHub Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" />
+</p>
+
 <p align="center">
   <a href="https://github.com/ponomarev-vitaly" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Vitaly's GitHub" height="30" width="30" style="margin-right: 10px;" />
