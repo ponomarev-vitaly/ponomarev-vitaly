@@ -27,7 +27,7 @@ I am an experienced **Java SDET** with a passion for delivering high-quality sof
 **Connect with Me:**
 
 <p align="center">
-  <a href="https://linkedin.com/in/ponomarev-vitaly" target="blank">
+  <a href="www.linkedin.com/in/vitalii-ponomarev" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Vitaly's LinkedIn" height="30" width="30" />
   </a>
   <a href="https://twitter.com/ponomarev_v" target="blank">
