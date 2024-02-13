@@ -25,27 +25,19 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" />
-</p>
-
-<h3 align="center">Connect with Me:</h3>
-
-<p align="center">
-  <a href="https://github.com/ponomarev-vitaly" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Vitaly's GitHub" height="30" width="30" />
+  <a href="https://github.com/ponomarev-vitaly" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Vitaly's GitHub" height="30" width="30" style="margin-right: 10px;" />
   </a>
-  <a href="www.linkedin.com/in/vitalii-ponomarev" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Vitaly's LinkedIn" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/vitalii-ponomarev" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Vitaly's LinkedIn" height="30" width="30" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.facebook.com/vitaliiponomarev3126" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new--v2.png" alt="Vitaly's Facebook" height="30" width="30" />
+  <a href="https://www.facebook.com/vitaliiponomarev3126" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new--v2.png" alt="Vitaly's Facebook" height="30" width="30" style="margin-right: 10px;" />
   </a>
-  <!-- Добавляем ссылку на Stack Overflow -->
-  <a href="https://stackoverflow.com/users/22619699" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Vitaly's Stack Overflow" height="30" width="30" />
+  <a href="https://stackoverflow.com/users/22619699" target="_blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Vitaly's Stack Overflow" height="30" width="30" style="margin-right: 10px;" />
   </a>
-  <!-- Добавляем ссылку на Udemy -->
-  <a href="https://www.udemy.com/user/vitaly-ponomarev-5/" target="blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/udemy.png" alt="Vitaly's Udemy" height="30" width="30" />
+  <a href="https://www.udemy.com/user/vitaly-ponomarev-5/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/udemy.png" alt="Vitaly's Udemy" height="30" width="30" style="margin-right: 10px;" />
   </a>
 </p>
