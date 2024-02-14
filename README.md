@@ -26,11 +26,11 @@
 
 **My GitHub Stats:**
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/ponomarev-vitaly" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Vitaly's GitHub" height="30" width="30" style="margin-right: 10px;" />
   </a>
@@ -44,6 +44,6 @@
     <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Vitaly's Stack Overflow" height="30" width="30" style="margin-right: 10px;" />
   </a>
   <a href="https://www.udemy.com/user/vitaly-ponomarev-5/" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/udemy.png" alt="Vitaly's Udemy" height="30" width="30" style="margin-right: 10px;" />
+    <img align="center" src="https://icon-icons.com/icon/udemy-logo/249323" alt="Vitaly's Udemy" height="30" width="30" style="margin-right: 10px;" />
   </a>
 </p>
