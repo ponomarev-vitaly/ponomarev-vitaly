@@ -40,10 +40,5 @@
   <a href="https://www.facebook.com/vitaliiponomarev3126" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new--v2.png" alt="Vitaly's Facebook" height="30" width="30" style="margin-right: 10px;" />
   </a>
-  <a href="https://stackoverflow.com/users/22619699" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Vitaly's Stack Overflow" height="30" width="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.udemy.com/user/vitaly-ponomarev-5/" target="_blank">
-    <img align="center" src="https://icon-icons.com/icon/udemy-logo/249323" alt="Vitaly's Udemy" height="30" width="30" style="margin-right: 10px;" />
-  </a>
+  
 </p>
