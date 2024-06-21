@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Vitaliy! 👋</h1>
+<h1 align="center">Hi, I'm Vitaly! 👋</h1>
 <h3 align="center">Full-Stack Developer | Senior SDET | Lead Automation Engineer | Data Analyst | Java, Python, JS | Automation with Selenium, Playwright, Cypress, Appium</h3>
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=ponomarev-vitaly&theme=juicyfresh&no-frame=true&margin-w=20&margin-h=20" alt="ponomarev-vitaly" />
 </p>
 
-<p align="left">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) and adept at Data Analysis. My commitment lies in crafting top-notch software solutions that not only meet but exceed client expectations. With a holistic understanding of the software development lifecycle, I emphasize rigorous testing and QA practices to ensure product excellence.</p>
+<p align="left">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) with expertise in Data Analysis. My commitment lies in crafting top-notch software solutions that not only meet but exceed client expectations. With a holistic understanding of the software development lifecycle, I emphasize rigorous testing and QA practices to ensure product excellence.</p>
 
-<p align="left">Companies seeking a skilled professional to bolster their development teams will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Python, Java, and JavaScript, along with mastery in frameworks such as Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
+<p align="left">Companies seeking a skilled professional to bolster their development teams will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Python, Java, and JavaScript, along with mastery of frameworks such as Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
 
 <ul align="left">
-  <li>🔭 I’m currently working on some truly exciting and innovative projects that are keeping me on my toes and pushing my skills to new heights</li>
-  <li>🌱 I’m currently learning Java, Kubernetes, and Spring to expand my skill set and keep up-to-date with the latest technologies</li>
-  <li>👯 I’m looking to collaborate on projects that will take the world by storm - something that will challenge me, inspire me, and allow me to work alongside the best in the business</li>
-  <li>🤝 I’m looking for partnerships that will create a buzz - something that will push my boundaries, ignite my creativity, and enable me to team up with the top talent in the industry</li>
+  <li>🔭 I’m currently working on some truly exciting and innovative projects that are keeping me on my toes and pushing my skills to new heights.</li>
+  <li>🌱 I’m currently learning Java, Kubernetes, and Spring to expand my skill set and keep up-to-date with the latest technologies.</li>
+  <li>👯 I am seeking to collaborate on projects that will make a significant impact, challenge me, inspire me, and allow me to work alongside the best in the business.</li>
+  <li>🤝 I am looking for partnerships that will challenge me, ignite my creativity, and enable me to collaborate with top industry talent.</li>
 </ul>
 
 <h3 align="left">Skills and Expertise:</h3>
