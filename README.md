@@ -36,10 +36,10 @@
   <a href="https://github.com/ponomarev-vitaly" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="Vitaly's GitHub" height="30" width="30" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.linkedin.com/in/vitalii-ponomarev" target="_blank">
+  <a href="https://www.linkedin.com/in/vitaliy-ponomarev" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="Vitaly's LinkedIn" height="30" width="30" style="margin-right: 10px;" />
   </a>
-  <a href="https://www.facebook.com/vitaliiponomarev3126" target="_blank">
+  <a href="https://www.facebook.com/vitaliyponomarev3126" target="_blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new--v2.png" alt="Vitaly's Facebook" height="30" width="30" style="margin-right: 10px;" />
   </a>
   
