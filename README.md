@@ -19,12 +19,15 @@
 <h3 align="left">Skills and Expertise:</h3>
 
 <p align="left">
-  <b>Programming Languages:</b> Java, Python, JS<br>
-  <b>Frameworks and Tools:</b> Flask, Django, React, Redux, Selenium, Cypress, Playwright, Appium, Docker, Git, Jenkins, Kubernetes, Linux, MySQL, PostgreSQL, Node.js, Pandas<br>
+  <b>Programming Languages:</b> Java, Python, JavaScript<br>
+  <b>Databases:</b> MySQL, PostgreSQL<br>
+  <b>Frameworks and Tools:</b> Flask, Django, React, Redux, Docker, Git, Jenkins, Kubernetes, Linux, Node.js, Pandas<br>
+  <b>Testing Frameworks and Tools:</b> Cypress, Playwright, Selenium<br>
   <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
-  <b>AI Enthusiast:</b> I actively engage with neural networks, write prompts, and advocate for the implementation of artificial intelligence technologies<br>
-  <b>Project Management:</b> Proficient in project management within consulting environments, including team leadership and coordination<br>
+  <b>AI Enthusiast:</b> Engaged with neural networks, write prompts, advocate for AI technology implementation<br>
+  <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination<br>
 </p>
+
 
 **My GitHub Stats:**
 
