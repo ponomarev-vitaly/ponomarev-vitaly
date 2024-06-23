@@ -25,7 +25,7 @@
   <b>Testing Frameworks and Tools:</b> Cypress, Playwright, Selenium<br>
   <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
   <b>AI Enthusiast:</b> Engaged with neural networks, write prompts, advocate for AI technology implementation<br>
-  <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination<br>
+  <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation<br>
 </p>
 
 
