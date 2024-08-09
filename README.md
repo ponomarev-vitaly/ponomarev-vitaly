@@ -30,13 +30,11 @@
   <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation.<br>
 </p>
 
-**Top Languages Used:**
+**Top Languages Used & My GitHub Stats:**
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponomarev-vitaly&layout=compact&theme=dark" alt="Vitaly's Top Languages" />
 </p>
-
-**My GitHub Stats:**
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" />
