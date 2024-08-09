@@ -32,13 +32,12 @@
 
 **Top Languages Used & My GitHub Stats:**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponomarev-vitaly&layout=compact&theme=dark" alt="Vitaly's Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponomarev-vitaly&layout=compact&theme=dark" alt="Vitaly's Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" /></td>
+  </tr>
+</table>
 
 <p align="left">
   <a href="https://github.com/ponomarev-vitaly" target="_blank">
