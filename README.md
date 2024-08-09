@@ -5,9 +5,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ponomarev-vitaly&theme=juicyfresh&no-frame=true&margin-w=20&margin-h=20" alt="ponomarev-vitaly" />
 </p>
 
-<p align="left">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) with expertise in Data Analysis. My commitment lies in crafting top-notch software solutions that exceed client expectations. Leveraging a comprehensive understanding of the software development lifecycle, I focus on rigorous testing and QA practices to ensure product excellence.</p>
+<p align="justify">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) with expertise in Data Analysis. My commitment lies in crafting top-notch software solutions that exceed client expectations. Leveraging a comprehensive understanding of the software development lifecycle, I focus on rigorous testing and QA practices to ensure product excellence.</p>
 
-<p align="left">Companies seeking a skilled professional to bolster their development teams will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Java, Python, and JavaScript, along with mastery of frameworks such as Spring, Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
+<p align="justify">Companies seeking a skilled professional to bolster their development teams will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Java, Python, and JavaScript, along with mastery of frameworks such as Spring, Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
 
 <ul align="left">
   <li>🔭 I’m currently working on some truly exciting and innovative projects that are keeping me on my toes and pushing my skills to new heights.</li>
