@@ -25,21 +25,21 @@
   <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide<br>
   <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git<br>
   <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
-  <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation<br>
+  <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation.<br>
   <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
-  <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation<br>
-</p>
-
-**My GitHub Stats:**
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" />
+  <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation.<br>
 </p>
 
 **Top Languages Used:**
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponomarev-vitaly&layout=compact&theme=dark" alt="Vitaly's Top Languages" />
+</p>
+
+**My GitHub Stats:**
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ponomarev-vitaly&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="Vitaly's GitHub Stats" />
 </p>
 
 <p align="left">
