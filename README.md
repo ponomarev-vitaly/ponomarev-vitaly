@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vitaly! 👋</h1>
-<h3 align="center">Full-Stack Developer | Senior Java SDET & Developer | Lead Automation Engineer | Data Analyst | Java, Python, JS | Automation with Selenium, Playwright, Cypress, Appium</h3>
+<h3 align="center">Senior Java SDET & Developer | Lead Automation Engineer | Full-Stack Developer | Data Analyst | Java, Python, JS | Automation with Selenium, Playwright, Cypress, Appium</h3>
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=ponomarev-vitaly&theme=juicyfresh&no-frame=true&margin-w=20&margin-h=20" alt="ponomarev-vitaly" />
@@ -9,16 +9,16 @@
 
 <p align="justify">Companies seeking a skilled professional to bolster their development teams will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Java, Python, and JavaScript, along with mastery of frameworks such as Spring, Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
 
-<ul align="left">
+<ul align="justify">
   <li>🔭 I’m currently working on some truly exciting and innovative projects that are keeping me on my toes and pushing my skills to new heights.</li>
   <li>🌱 I’m currently learning Java, Kubernetes, and Spring to expand my skill set and keep up-to-date with the latest technologies.</li>
   <li>👯 I am seeking to collaborate on projects that will make a significant impact, challenge me, inspire me, and allow me to work alongside the best in the business.</li>
   <li>🤝 I am looking for partnerships that will challenge me, ignite my creativity, and enable me to collaborate with top industry talent.</li>
 </ul>
 
-<h3 align="left">Skills and Expertise:</h3>
+<h3 align="justify">Skills and Expertise:</h3>
 
-<p align="left">
+<p align="justify">
   <b>Programming Languages:</b> Java, Python, JavaScript<br>
   <b>Databases:</b> MySQL, PostgreSQL, MongoDB (optimization of queries for high-load applications, designing schemas for dynamic data, development of caching systems)<br>
   <b>Frameworks and Tools:</b> Spring, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js<br>
