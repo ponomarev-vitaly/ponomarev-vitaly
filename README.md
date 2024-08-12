@@ -24,7 +24,7 @@
   <b>Frameworks and Tools:</b> Spring (including Spring Boot), Hibernate, Kafka, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js<br>
   <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide<br>
   <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git, Terraform, Ansible, GitLab CI/CD, GitHub Actions<br>
-  <b>Cloud Platforms: AWS, Google Cloud, Azure</br>
+  <b>Cloud Platforms: AWS, Google Cloud, Azure<br>
   <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
   <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation.<br>
   <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
