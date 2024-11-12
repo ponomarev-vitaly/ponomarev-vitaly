@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Vitaly! 👋</h1>
 <h3 align="center">Senior Java SDET & Developer | AI & ML Engineer | Full-Stack Developer | Java, Python, JavaScript | Automation: Selenium, Playwright, Cypress, Appium</h3>
 
+<!--
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=ponomarev-vitaly&theme=juicyfresh&no-frame=true&margin-w=20&margin-h=20" alt="ponomarev-vitaly" />
 </p>
+-->
 
 <p align="justify">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) with a growing focus on Java development. My commitment lies in crafting top-notch software solutions that exceed client expectations. Leveraging a comprehensive understanding of the software development lifecycle, I focus on rigorous testing and QA practices to ensure product excellence.</p>
 
