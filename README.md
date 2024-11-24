@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vitaly! 👋</h1>
-<h3 align="center">Senior Java SDET & Developer | AI & ML Engineer | Full-Stack Developer | Java, Python, JavaScript | Automation: Selenium, Playwright, Cypress, Appium</h3>
+<h3 align="center">JAVA SDET & Developer | Scalable Testing Solutions with AI & ML | Java, Python | Selenium&Playwright&Cypress | I Help Tech Companies Boost Software Quality by 30%</h3>
 
 <!--
 <p align="center"> 
@@ -21,15 +21,16 @@
 <h3 align="justify">Skills and Expertise:</h3>
 
 <p align="justify">
-  <b>Programming Languages:</b> Java, Python, JavaScript<br>
+  <b>Programming Languages:</b> Java, Python, JS, TS, Go<br>
   <b>Databases:</b> MySQL, PostgreSQL, MongoDB (optimization of queries for high-load applications, designing schemas for dynamic data, development of caching systems)<br>
-  <b>Frameworks and Tools:</b> Spring (including Spring Boot), Hibernate, Kafka, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js<br>
-  <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide<br>
+  <b>Frameworks and Tools:</b> Spring (including Spring Boot), Hibernate, Kafka, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js, Flutter<br>
+  <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide, Cucumber<br>
   <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git, Terraform, Ansible, GitLab CI/CD, GitHub Actions<br>
   <b>Cloud Platforms:</b> AWS, Google Cloud, Azure<br>
   <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
-  <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation.<br>
+  <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation, developing AI-powered APIs.<br>
   <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
+  <b>Web3 Technologies:</b> Solidity, Rust, Web3.js, decentralized app development<br>
   <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation.<br>
 </p>
 
