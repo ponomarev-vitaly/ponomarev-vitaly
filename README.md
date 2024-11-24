@@ -1,39 +1,42 @@
-<h1 align="center">Hi, I'm Vitaly! 👋</h1>
+<h1 align="center">Hi, I'm Vitaliy! 👋</h1>
 <h3 align="center">JAVA SDET & Developer | Scalable Testing Solutions with AI & ML | Java, Python | Selenium&Playwright&Cypress | I Help Tech Companies Boost Software Quality by 30%</h3>
 
-<!--
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ponomarev-vitaly&theme=juicyfresh&no-frame=true&margin-w=20&margin-h=20" alt="ponomarev-vitaly" />
-</p>
--->
-
-<p align="justify">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) with a growing focus on Java development. My commitment lies in crafting top-notch software solutions that exceed client expectations. Leveraging a comprehensive understanding of the software development lifecycle, I focus on rigorous testing and QA practices to ensure product excellence.</p>
-
-<p align="justify">Companies seeking a skilled Java developer will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Java, Python, and JavaScript, along with mastery of frameworks such as Spring (including Spring Boot), Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
-
-<ul align="justify">
-  <li>🔭 I’m currently working on expanding my knowledge in Java-related technologies, including Kafka, Hibernate, and cloud platforms like AWS and Google Cloud.</li>
-  <li>🌱 I’m diving deep into Java, Kubernetes, and Spring to solidify my expertise and keep up-to-date with the latest technologies in backend and microservices development.</li>
-  <li>👯 I am seeking to collaborate on Java-centric projects that will challenge me, inspire me, and allow me to work alongside the best in the industry.</li>
-  <li>🤝 I am looking for partnerships that will enable me to contribute to cutting-edge Java applications, microservices architectures, and cloud-native solutions.</li>
-</ul>
-
-<h3 align="justify">Skills and Expertise:</h3>
-
-<p align="justify">
-  <b>Programming Languages:</b> Java, Python, JS, TS, Go<br>
-  <b>Databases:</b> MySQL, PostgreSQL, MongoDB (optimization of queries for high-load applications, designing schemas for dynamic data, development of caching systems)<br>
-  <b>Frameworks and Tools:</b> Spring (including Spring Boot), Hibernate, Kafka, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js, Flutter<br>
-  <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide, Cucumber<br>
-  <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git, Terraform, Ansible, GitLab CI/CD, GitHub Actions<br>
-  <b>Cloud Platforms:</b> AWS, Google Cloud, Azure<br>
-  <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
-  <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation, developing AI-powered APIs.<br>
-  <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
-  <b>Web3 Technologies:</b> Solidity, Rust, Web3.js, decentralized app development<br>
-  <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation.<br>
-</p>
-
+<details>
+  <summary>Click to view more details about me</summary>
+  <!--
+  <p align="center"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=ponomarev-vitaly&theme=juicyfresh&no-frame=true&margin-w=20&margin-h=20" alt="ponomarev-vitaly" />
+  </p>
+  -->
+  
+  <p align="justify">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) with a growing focus on Java development. My commitment lies in crafting top-notch software solutions that exceed client expectations. Leveraging a comprehensive understanding of the software development lifecycle, I focus on rigorous testing and QA practices to ensure product excellence.</p>
+  
+  <p align="justify">Companies seeking a skilled Java developer will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Java, Python, and JavaScript, along with mastery of frameworks such as Spring (including Spring Boot), Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
+  
+  <ul align="justify">
+    <li>🔭 I’m currently working on expanding my knowledge in Java-related technologies, including Kafka, Hibernate, and cloud platforms like AWS and Google Cloud.</li>
+    <li>🌱 I’m diving deep into Java, Kubernetes, and Spring to solidify my expertise and keep up-to-date with the latest technologies in backend and microservices development.</li>
+    <li>👯 I am seeking to collaborate on Java-centric projects that will challenge me, inspire me, and allow me to work alongside the best in the industry.</li>
+    <li>🤝 I am looking for partnerships that will enable me to contribute to cutting-edge Java applications, microservices architectures, and cloud-native solutions.</li>
+  </ul>
+  
+  <h3 align="justify">Skills and Expertise:</h3>
+  
+  <p align="justify">
+    <b>Programming Languages:</b> Java, Python, JS, TS, Go<br>
+    <b>Databases:</b> MySQL, PostgreSQL, MongoDB (optimization of queries for high-load applications, designing schemas for dynamic data, development of caching systems)<br>
+    <b>Frameworks and Tools:</b> Spring (including Spring Boot), Hibernate, Kafka, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js, Flutter<br>
+    <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide, Cucumber<br>
+    <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git, Terraform, Ansible, GitLab CI/CD, GitHub Actions<br>
+    <b>Cloud Platforms:</b> AWS, Google Cloud, Azure<br>
+    <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
+    <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation, developing AI-powered APIs.<br>
+    <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
+    <b>Web3 Technologies:</b> Solidity, Rust, Web3.js, decentralized app development<br>
+    <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation.<br>
+  </p>
+</details>
+  
 **Top Languages Used & My GitHub Stats:**
 
 <table>
