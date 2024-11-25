@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vitaliy! 👋</h1>
-<h3 align="center">JAVA SDET & Developer | Scalable Testing Solutions with AI & ML | Java, Python | Selenium&Playwright&Cypress | I Help Tech Companies Boost Software Quality by 30%</h3>
+<h3 align="center">JAVA SDET & Developer | Scalable Testing Solutions with AI & ML | Java, Python | Selenium,Playwright,Cypress | I Help Tech Companies Boost Software Quality by 30%</h3>
 
 <details>
   <summary>Click to view more details about me</summary>
