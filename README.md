@@ -32,7 +32,7 @@
     <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
     <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation, developing AI-powered APIs.<br>
     <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
-    <b>Web3 Technologies:</b> Solidity, Rust, Web3.js, decentralized app development<br>
+    <b>Web3 Technologies:</b> Solidity, Rust, Web3.js, Decentralized App Development, Smart Contracts, Blockchain Integration, IPFS, Ethereum, Polkadot, NFT Development, DeFi Solutions<br>
     <b>Project Management:</b> Skilled in project management within consulting environments, including team leadership and coordination, with over 10 years of experience in B2B sales, B2B marketing, sales project management, project sales, and agreements negotiation.<br>
   </p>
 </details>
