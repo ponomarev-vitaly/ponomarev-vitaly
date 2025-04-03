@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vitaliy! 👋</h1>
-<h3 align="center">JAVA SDET & Developer | Scalable Testing Solutions with AI & ML | Java, Python | Selenium,Playwright,Cypress | I Help Tech Companies Boost Software Quality by 30%</h3>
+<h3 align="center">Software Engineer | Java | Go | Selenium & Playwright | AI-Driven B2B Solutions | I help companies unlock 33.32 % Gains with AI</h3>
 
 <details>
   <summary>Click to view more details about me</summary>
@@ -25,7 +25,7 @@
   <p align="justify">
     <b>Programming Languages:</b> Java, Python, JS, TS, Go<br>
     <b>Databases:</b> MySQL, PostgreSQL, MongoDB (optimization of queries for high-load applications, designing schemas for dynamic data, development of caching systems)<br>
-    <b>Frameworks and Tools:</b> Spring (including Spring Boot), Hibernate, Kafka, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js, Flutter<br>
+    <b>Frameworks and Tools:</b> Spring Boot, Hibernate, Kafka, Flask, Django, React, Redux, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Node.js, Flutter<br>
     <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide, Cucumber<br>
     <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git, Terraform, Ansible, GitLab CI/CD, GitHub Actions<br>
     <b>Cloud Platforms:</b> AWS, Google Cloud, Azure<br>
