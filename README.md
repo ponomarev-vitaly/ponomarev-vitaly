@@ -11,7 +11,7 @@
   
   <p align="justify">I am a versatile Full-Stack Developer specializing as a Software Development Engineer in Test (SDET) with a growing focus on Java development. My commitment lies in crafting top-notch software solutions that exceed client expectations. Leveraging a comprehensive understanding of the software development lifecycle, I focus on rigorous testing and QA practices to ensure product excellence.</p>
   
-  <p align="justify">Companies seeking a skilled Java developer will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Java, Python, and JavaScript, along with mastery of frameworks such as Spring (including Spring Boot), Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
+  <p align="justify">Companies seeking a skilled Java developer will find in me a dedicated collaborator, capable of navigating complex projects with ease. With a robust skill set encompassing Java, Python, and JavaScript, along with mastery of frameworks such as Spring Boot, Django, Flask, and React, I offer the versatility needed to tackle diverse challenges effectively. Furthermore, my expertise in Automated Testing using Selenium, Playwright, Cypress, and Appium ensures streamlined workflows and superior product quality.</p>
   
   <ul align="justify">
     <li>🔭 I’m currently working on expanding my knowledge in Java-related technologies, including Kafka, Hibernate, and cloud platforms like AWS and Google Cloud.</li>
