@@ -23,22 +23,22 @@
   
   <h3 align="justify">Skills and Expertise:</h3>
   
-  <p align="justify">
-  <b>Programming Languages:</b> Java, Go, Python, JavaScript, TypeScript<br>
-  <b>Databases:</b> MySQL, PostgreSQL, MongoDB (query optimization for high-load applications, schema design for dynamic data, caching systems development)<br>
-  <b>Frameworks and Tools:</b><br>
-  &nbsp;&nbsp;<b>Backend:</b> Spring Boot, Hibernate, Kafka, Gin (Go), GORM (Go), Flask, Django, Node.js<br>
-  &nbsp;&nbsp;<b>Frontend:</b> React, Redux, Flutter<br>
-  &nbsp;&nbsp;<b>AI/ML:</b> TensorFlow, Keras, Scikit-Learn, Pandas, NumPy<br>
-  <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide, Cucumber<br>
-  <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git, Terraform, Ansible, GitLab CI/CD, GitHub Actions<br>
-  <b>Cloud Platforms:</b> AWS, Google Cloud, Azure<br>
-  <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
-  <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation, developing AI-powered APIs<br>
-  <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
-  <b>Web3 Technologies:</b> Solidity, Rust, Web3.js, Decentralized App Development, Smart Contracts, Blockchain Integration, IPFS, Ethereum, Polkadot, NFT Development, DeFi Solutions<br>
-  <b>Project Management:</b> Over 10 years of experience in B2B sales, marketing, project management, and negotiations within consulting environments, including team leadership and coordination
-</p>
+  <ul align="justify">
+    <li>Programming Languages:</b> Java, Go, Python, JavaScript, TypeScript</li>
+    <b>Databases:</b> MySQL, PostgreSQL, MongoDB (query optimization for high-load applications, schema design for dynamic data, caching systems development)<br>
+    <b>Frameworks and Tools:</b><br>
+    &nbsp;&nbsp;<b>Backend:</b> Spring Boot, Hibernate, Kafka, Gin (Go), GORM (Go), Flask, Django, Node.js<br>
+    &nbsp;&nbsp;<b>Frontend:</b> React, Redux, Flutter<br>
+    &nbsp;&nbsp;<b>AI/ML:</b> TensorFlow, Keras, Scikit-Learn, Pandas, NumPy<br>
+    <b>Testing Frameworks and Tools:</b> Selenium, Playwright, Cypress, Appium, JUnit, TestNG, Rest Assured, Selenide, Cucumber<br>
+    <b>CI/CD & DevOps:</b> Jenkins, Docker, Kubernetes, Git, Terraform, Ansible, GitLab CI/CD, GitHub Actions<br>
+    <b>Cloud Platforms:</b> AWS, Google Cloud, Azure<br>
+    <b>Testing and QA:</b> Test Automation, Manual Testing, Agile, Scrum, Test Plans and Strategies, Test Execution and Reporting, Performance Testing, Security Testing, Accessibility Testing<br>
+    <b>AI & Data Science:</b> Engaged with neural networks, create and optimize prompts for AI models, advocate for AI technology implementation, developing AI-powered APIs<br>
+    <b>Machine Learning:</b> Machine Learning Algorithms, Deep Learning, Natural Language Processing (NLP)<br>
+    <b>Web3 Technologies:</b> Solidity, Rust, Web3.js, Decentralized App Development, Smart Contracts, Blockchain Integration, IPFS, Ethereum, Polkadot, NFT Development, DeFi Solutions<br>
+    <b>Project Management:</b> Over 10 years of experience in B2B sales, marketing, project management, and negotiations within consulting environments, including team leadership and coordination
+</ul>
 </details>
   
 **Top Languages Used & My GitHub Stats:**
