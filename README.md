@@ -14,7 +14,7 @@
   <p align="justify">I go beyond clean code to engineer solutions that move fast and stay bulletproof. My automation-first development process — using Playwright, Selenium, Cypress, and Appium — accelerates release cycles by 25–30% while maintaining 98%+ test coverage. Automation here isn’t an afterthought — it’s a strategic lever for growth and stability. For clients seeking systems where resilience meets intelligence, I deliver platforms engineered for scale, speed, and sustained business impact.</p>
   
   <ul align="justify">
-    <li>🔭 I’m currently working on expanding my knowledge in Java and Go-related technologies, including Kafka, Hibernate, Gin, and GORM, as well as cloud platforms like AWS and Google Cloud.</li>
+    <li>🔭 I’m currently working on expanding expertise in Java and Go-related technologies, including Kafka, Hibernate, Gin, and GORM, as well as cloud platforms like AWS and Google Cloud.</li>
     <li>🌱 I’m diving deep into Java, Go, Kubernetes, and Spring Boot to solidify my expertise and keep up-to-date with the latest technologies in backend and microservices development.</li>
     <li>🔍 Current Focus: Developing innovative backend and microservices solutions, including high-load systems, while leveraging automation frameworks to enhance efficiency and quality. Additionally, I am exploring AI-driven approaches to further optimize these systems, particularly through intelligent automation and predictive analytics.</li>
     <li>👯 I am seeking to collaborate on Java and Go-centric projects that will challenge me, inspire me, and allow me to work alongside the best in the industry.</li>
